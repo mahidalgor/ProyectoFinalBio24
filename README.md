@@ -11,6 +11,7 @@
 `[Este es un video mostrando algunas especies de primates del Ecuador y su estado de conservación y peligros]<iframe src="https://www.youtube.com/watch?v=3dKFruCDFZ8"data-external= "1" width="560" height="315"> </iframe> 
 #### Filogenia de primates con el gen ACE2####
 ![Filogenia primates](https://github.com/mahidalgor/ProyectoFinalBio24/assets/171622753/d22ac826-cb88-48ba-8f83-87e1af0504dc)
+
 [Que tipo de datos quieres usar?
 Quiero usar datos de genes ortologos dos en específico para construir una filogenia de especies de primates.
 
